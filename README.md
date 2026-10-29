@@ -341,5 +341,3 @@ So the mock site is not a shortcut. It is the correct boundary for this project.
 - Gemini's element selection comes from a model and can be wrong. Validation, skipping, and logging limit the impact but cannot remove it.
 - The dashboard is read-only. Alerts cannot be resolved from the UI yet.
 - No production cancellation integration is included or supported.
-#   A I _ P r o j e c t _ V e l o  
- 
