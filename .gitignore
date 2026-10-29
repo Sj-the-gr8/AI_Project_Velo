@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+token.json
+client_secret.json
+.velo_gmail_cursor
+*.db
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+agent_screenshots/
+.streamlit/
+*.agent.lock
+*.agent.log
